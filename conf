@@ -1,0 +1,10 @@
+[meta]
+	type = lang
+
+[lang]
+	name = Perl 5
+	cmd = perl
+	lid = p5
+
+[pkg]
+        cmd = cpanm
